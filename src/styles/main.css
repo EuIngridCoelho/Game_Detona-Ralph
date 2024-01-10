@@ -15,7 +15,7 @@
 
     background-color: #000000;
     color: #ffffff;
-border-bottom: 5px solid #ffd700;
+    border-bottom: 5px solid #ffd700;
 }
 
 .panel {
@@ -29,17 +29,23 @@ border-bottom: 5px solid #ffd700;
     height: 150px;
     width: 150px;
 
-background-color: #e0e0e0;
+    background-color: #e0e0e0;
     border: 1px solid #000000;
 }
 
-.enemy{
+.enemy {
     background-image: url("../images/ralph.png");
     background-size: cover;
 }
 
-.menu-lives{
+.menu-lives {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2) {
+    margin-top: 1rem;
 }
