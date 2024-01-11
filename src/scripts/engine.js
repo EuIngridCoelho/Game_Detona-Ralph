@@ -10,7 +10,7 @@ const state = {
         gameVelocity: 1000,
         hitPosition: 0,
         result: 0,
-        currentTime: 5,
+        currentTime: 60,
         currentLives: 3
     },
     actions: {
@@ -31,7 +31,7 @@ function countDown() {
         state.view.lives.textContent = state.values.currentLives;
 
         if (state.values.currentLives > 0) {
-            state.values.currentTime = 5;
+            state.values.currentTime = 60;
             state.view.timeLeft.textContent = state.values.currentTime;
             state.values.currentTime--;
 
@@ -62,8 +62,6 @@ function countDown() {
             restart();
         }
     }
-
-
 }
 
 
