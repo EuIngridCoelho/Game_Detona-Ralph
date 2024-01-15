@@ -12,7 +12,7 @@ Este projeto tem como objetivo desenvolver as habilidades de HTML, CSS e JAVASCR
 ### Outros Jogos:
 | Diretório  | Página|
 | ------------- | ------------- |
-| [![Diretório Detona Ralph](https://img.shields.io/badge/Jogo_da_memória_com_Emojis-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Jogo_da_memoria)  | [![Jogo Detona Ralph](https://img.shields.io/badge/Jogo_da_memória_com_Emojis-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Jogo_da_memoria/)  |
+| [![Diretório Jogo da Memória com Emojis](https://img.shields.io/badge/Jogo_da_memória_com_Emojis-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Jogo_da_memoria)  | [![Jogo Jogo da Memória com Emojis](https://img.shields.io/badge/Jogo_da_memória_com_Emojis-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Jogo_da_memoria/)  |
 
 
 ## 🔗 Links
